@@ -1,4 +1,4 @@
-# Infant CPR Support Device using Arduino Mini
+# Lullaby LifeSaver (LLS) Infant CPR Support Device using Arduino Mini
 
 ---
 
