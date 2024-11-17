@@ -22,6 +22,9 @@ The **Lullaby LifeSaver (LLS)** is an Arduino-based CPR support device designed 
   - Hidden wiring for professional presentation and ease of use.
 
 ---
+## Project Image
+![IMG_7303](https://github.com/user-attachments/assets/80473aec-2ab4-4b8a-b3f8-fdc1ce43f499)
+![IMG_7153](https://github.com/user-attachments/assets/99078a04-6d1a-4538-9479-651be6d0f36a)
 
 ## Components
 - **Arduino Mini**: Core microcontroller for processing sensor data and driving outputs.
